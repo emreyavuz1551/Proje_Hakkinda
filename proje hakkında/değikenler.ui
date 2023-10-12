@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>degiskenler</class>
+ <widget class="QWidget" name="degiskenler">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1103</width>
+    <height>862</height>
+   </rect>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:rgb(50, 156, 146);</string>
+  </property>
+  <widget class="QLabel" name="baslik">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>80</y>
+     <width>651</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>22</pointsize>
+     <weight>50</weight>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>Görmek istediğiniz işlem hangisi?</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="basinc">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>240</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:rgb(150, 27, 70);
+border:none;
+border-radius:30px;
+color:white;</string>
+   </property>
+   <property name="text">
+    <string>BASINÇ</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="gaz">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>330</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:rgb(150, 27, 70);
+border:none;
+border-radius:30px;
+color:white;</string>
+   </property>
+   <property name="text">
+    <string>GAZ</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sicaklik">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>410</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:rgb(150, 27, 70);
+border:none;
+border-radius:30px;
+color:white;</string>
+   </property>
+   <property name="text">
+    <string>SICAKLIK</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="nem">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>500</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:rgb(150, 27, 70);
+border:none;
+border-radius:30px;
+color:white;</string>
+   </property>
+   <property name="text">
+    <string>NEM</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="iscianaliz">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>580</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe Print</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:rgb(150, 27, 70);
+border:none;
+border-radius:30px;
+color:white;</string>
+   </property>
+   <property name="text">
+    <string>İŞÇİLERİ GÖRÜNTÜLE</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
